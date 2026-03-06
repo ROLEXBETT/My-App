@@ -1,9 +1,12 @@
 const Help = () => {
 
   return (
+
     <div className="help-container">
+      
       <div className="help-header">
-        <h1>How can we help you?</h1>
+        <h1>HELP!</h1>
+        <h2>How can we help you?</h2>
        
       </div>
       <div className="help-grid">

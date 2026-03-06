@@ -7,11 +7,11 @@ const Contactus = () =>{
                       <p className="contact-subtitle">We'd love to hear from you! Get in touch with us.</p>
                       <div>
               <h3>Address</h3>
-              <p>123 Business Street, Suite 100<br />New York, NY 10001</p>
+              <p>Kenyatta ave, Suite 100<br />Nairobi, 1001</p>
             </div>
              <div>
               <h3>Phone</h3>
-              <p>+1 (555) 123-4567</p>
+              <p>+254712536509</p>
             </div>
              <div>
               <h3>Business Hours</h3>

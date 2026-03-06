@@ -44,11 +44,31 @@
 }
 .Contactus{
   background-color: cyan;
-   max-width: 1200px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 40px 20px;
-  font-family: 'Segoe UI', Tahoma;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .Help{
   background-color: burlywood;
+}
+.Thirdcomponent{
+  background-color: rgb(201, 92, 92);
+  color: white;
+}
+.Fouthcomponent{
+  background-color: aquamarine;
+}
+.Fifthcomponent{
+  background-color: bisque;
+}
+.Sixthcomponent{
+  background-color: cadetblue;
+  text-align: center;
+  color: burlywood;
+
+}
+.button{
+  background-color: blueviolet;
+  
 }
