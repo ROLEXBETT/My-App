@@ -1,6 +1,7 @@
 import { useState } from "react"
 
 const Sixthcomponent = () => {
+    
     const [weight, setWeight] = useState(50);
     const updateWeight = () => {
         if (weight<55){

@@ -42,21 +42,20 @@
 .Secondcomponent{
   background-color: blue;
 }
-.Contactus{
+.contactus{
   background-color: cyan;
-  max-width: 1200px;
   margin: 0 auto;
   padding: 40px 20px;
   font-family: Arial, Helvetica, sans-serif;
 }
-.Help{
+.Help-container{
   background-color: burlywood;
 }
 .Thirdcomponent{
   background-color: rgb(201, 92, 92);
   color: white;
 }
-.Fouthcomponent{
+.Fourthcomponent{
   background-color: aquamarine;
 }
 .Fifthcomponent{
@@ -70,5 +69,28 @@
 }
 .button{
   background-color: blueviolet;
-  
+
+}
+.Notfound{
+  font-size: 50px;
+  color: red;
+  font-weight: 900;
+}
+nav{
+  background-color: rgb(149, 237, 170);
+  padding: 20px;
+}
+.navlinks{
+  margin: 10px;
+  text-decoration: none;
+  font-size: 25px;
+  background-color: rgb(223, 98, 98);
+  padding: 8px;
+  border-radius: 10px;
+  font-weight: 500;
+
+}
+.navlinks:hover{
+  background-color: burlywood;
+  color: white;
 }

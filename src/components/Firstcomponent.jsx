@@ -1,6 +1,6 @@
 const Firstcomponent = () =>{
     return(
-        <div className="Firscomponent">
+        <div className="Firstcomponent">
              <h1>Welcome to my first component</h1>
             <h3>About Us</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt quas corrupti, reprehenderit facere quae temporibus debitis nostrum modi harum esse aperiam provident accusamus itaque ad omnis magnam. Repellendus, iusto magnam!</p>

@@ -2,7 +2,7 @@ const Help = () => {
 
   return (
 
-    <div className="help-container">
+    <div className="Help-container">
       
       <div className="help-header">
         <h1>HELP!</h1>
@@ -18,21 +18,21 @@ const Help = () => {
         </div>
 
         <div className="help-card">
-          <div className="card-icon">⚙️</div>
+          
           <h3>Account Settings</h3>
           <p>Manage your profile, privacy, and notification preferences.</p>
           
         </div>
 
         <div className="help-card">
-          <div className="card-icon">💳</div>
+         
           <h3>Billing & Payments</h3>
           <p>Information about pricing, invoices, and payment methods.</p>
           
         </div>
 
         <div className="help-card">
-          <div className="card-icon">🔒</div>
+          
           <h3>Security & Privacy</h3>
           <p>Learn how we protect your data and your privacy rights.</p>
          

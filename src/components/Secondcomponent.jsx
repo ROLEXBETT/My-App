@@ -2,6 +2,7 @@ const Secondcomponent = () =>{
     return (
         <div className="Secondcomponent">
             <h1>This is my second component</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error fugit voluptatum esse, veniam quisquam iusto omnis ut odit odio enim repellendus sit laboriosam at nesciunt, id corporis suscipit, assumenda delectus.</p>
         </div>
     )
 }
